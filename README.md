@@ -11,7 +11,7 @@
 
 
   🌟 Un poco sobre mí
-· Fanático de la Historia 🏛️ – Especialmente de la Antigua Roma y la historia de España. 
+· Enamorado de la historia 🏛️ – Especialmente de la Antigua Roma y la historia de España. 
 · Apasionado por la lectura 📚 – Me pierdo en mundos literarios tan a menudo como puedo. El mundo de Tolkien es una fuente constante de inspiración, aprendizaje y crecimiento.
 · Amante del deporte ⚽ – Me gusta mantenerme activo en el gimnasio 🏋️‍♂️ y disfruto tanto del fútbol ⚽ como del balonmano 🤾‍♂️.
 · Constructor de LEGO 🧱 – Nada como abrir una caja de Lego y poner el cerebro en modo automático.
@@ -25,10 +25,15 @@ Be welcome to my humble profile! I'm a junior backend developer who likes to wor
 
   🚀 Technologies I use
 · Main languages: Java ☕️, TypeScript 🟦 & Kotlin 🟠
-· Tools, Frameworks, and Libraries: Node.js & Spring Boot 🌱; Express 🌐 & Hibernate 🐻 are among my favs.
+· Tools, Frameworks and Libraries: Node.js & Spring Boot 🌱; Express 🌐 & Hibernate 🐻 are among my favs.
 · Databases: MySQL 🐬, MongoDB 🍃 & PostgreSQL 📊
 · Containers and CI/CD: Docker 🐳
 
+  🌟 A little bit about myself
+· Loving history 🏛️ – Especially ancient Rome and Spanish Empire history. 
+· Likes to read 📚 – Tolkien's world is an especial place to me. 
+· Loves sports ⚽ – I like to stay in shape by going to the gym 🏋️‍♂️ and I enjoy football ⚽ and loves handball 🤾‍♂️.
+· LEGO constructor aficionado 🧱 – Nothing like putting your brain in automatic mode.
 
 <!---
 javigigante/javigigante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
